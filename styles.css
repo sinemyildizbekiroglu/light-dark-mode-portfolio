@@ -36,3 +36,7 @@ body {
   top: 5px;
   left: 45px;
 }
+
+.dark .flicker {
+  transform: translateX(40px);
+}
