@@ -4,6 +4,12 @@ body {
   padding: 0;
 }
 
+header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 30px;
+}
+
 .switch {
   width: 80px;
   height: 40px;
