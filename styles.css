@@ -49,6 +49,10 @@ header {
   transform: translateX(40px);
 }
 
+.dark > * {
+  color: rgb(255, 255, 255);
+}
+
 .main {
   height: 80vh;
 }
