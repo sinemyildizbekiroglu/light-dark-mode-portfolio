@@ -6,6 +6,14 @@ body {
   padding: 0;
   background-color: rgb(244, 241, 241);
   font-family: 'Poppins', sans-serif;
+  color: rgb(57, 57, 57);
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 70px;
+  font-weight: 300;
+  margin: 10px 0;
 }
 
 header {
