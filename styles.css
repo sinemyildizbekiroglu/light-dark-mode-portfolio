@@ -114,6 +114,17 @@ header {
   flex-wrap: wrap;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 100px 30px;
+  background-color: rgb(136, 136, 136);
+}
+
+.dark footer {
+  background-color: rgb(28, 28, 28);
+}
+
 @media only screen and (min-width: 970px) {
   .square {
     width: 48%;
