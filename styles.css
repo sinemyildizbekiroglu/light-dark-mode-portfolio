@@ -109,6 +109,16 @@ header {
   background-color: rgb(71, 71, 71);
 }
 
+#revenoo {
+  background-image: url('images/revenoo-app.png');
+  background-size: cover;
+}
+
+#burgerrator {
+  background-image: url('images/burgerrator.png');
+  background-size: cover;
+}
+
 .sub-section {
   display: flex;
   flex-wrap: wrap;
