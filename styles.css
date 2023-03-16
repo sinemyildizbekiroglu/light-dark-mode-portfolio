@@ -119,6 +119,16 @@ header {
   background-size: cover;
 }
 
+#news {
+  background-image: url('images/news-app.png');
+  background-size: cover;
+}
+
+#dates {
+  background-image: url('images/dates-app.png');
+  background-size: cover;
+}
+
 .sub-section {
   display: flex;
   flex-wrap: wrap;
