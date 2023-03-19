@@ -133,6 +133,14 @@ header {
   flex-wrap: wrap;
 }
 
+.hero-image {
+  position: relative;
+  width: 50%;
+  height: 350px;
+  display: block;
+  margin-bottom: 100px;
+}
+
 footer {
   display: flex;
   justify-content: center;
