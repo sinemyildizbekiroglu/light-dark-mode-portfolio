@@ -153,6 +153,16 @@ header {
   transform: rotate(-25deg) skew(25deg);
 }
 
+.cube:before {
+  position: absolute;
+  content: '';
+  width: 21px;
+  height: 100%;
+  transform: skewY(-45deg);
+  left: -20px;
+  bottom: -10px;
+}
+
 footer {
   display: flex;
   justify-content: center;
