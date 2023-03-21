@@ -207,6 +207,15 @@ header {
   background-color: rgb(221, 188, 211);
 }
 
+#javascript {
+  left: 450px;
+  bottom: 200px;
+  background-image: url('images/javascript-square.png');
+  background-size: cover;
+  background-color: rgb(119, 227, 186);
+  box-shadow: -40px 40px 20px rgb(50 50 50/ 15%);
+}
+
 footer {
   display: flex;
   justify-content: center;
