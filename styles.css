@@ -233,6 +233,14 @@ header {
   box-shadow: -80px 80px 20px rgb(50 50 50/ 15%);
 }
 
+#react:before {
+  background-color: rgb(154, 189, 221);
+}
+
+#react:after {
+  background-color: rgb(188, 200, 221);
+}
+
 footer {
   display: flex;
   justify-content: center;
