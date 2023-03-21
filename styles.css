@@ -190,6 +190,15 @@ header {
   background-color: rgb(205, 188, 221);
 }
 
+#css {
+  left: 250px;
+  bottom: 240px;
+  background-image: url('images/css-square.png');
+  background-size: cover;
+  background-color: rgb(227, 119, 191);
+  box-shadow: -100px 100px 20px rgb(50 50 50/ 15%);
+}
+
 footer {
   display: flex;
   justify-content: center;
