@@ -199,6 +199,14 @@ header {
   box-shadow: -100px 100px 20px rgb(50 50 50/ 15%);
 }
 
+#css:before {
+  background-color: rgb(221, 154, 207);
+}
+
+#css:after {
+  background-color: rgb(221, 188, 211);
+}
+
 footer {
   display: flex;
   justify-content: center;
