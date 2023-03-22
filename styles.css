@@ -99,6 +99,7 @@ header {
 
 .main-text {
   padding: 30px;
+  margin-bottom: 100px;
 }
 
 .square {
@@ -145,6 +146,7 @@ header {
   display: block;
   margin-bottom: 100px;
   display: block;
+  margin-bottom: 100px;
 }
 
 .cube {
