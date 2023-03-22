@@ -144,6 +144,7 @@ header {
   height: 350px;
   display: block;
   margin-bottom: 100px;
+  display: block;
 }
 
 .cube {
@@ -260,5 +261,11 @@ footer {
     width: 48%;
     margin: 1%;
     height: 600px;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .hero-image {
+    display: none;
   }
 }
